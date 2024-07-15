@@ -61,23 +61,16 @@ The goal of the hybrid system is to improve the accuracy and robustness of recom
 ## Tools and Technologies used overall:
 • Python Libraries:
 
-  Pandas: For data manipulation and preprocessing.
-  
-  NumPy: For numerical operations.
-  
-  scikit-learn: For feature extraction (TF-IDF) and similarity calculations.
-  
-  SpaCy: For advanced natural language processing.
-  
-  implicit: For collaborative filtering using ALS.
-  
-  SciPy: For sparse matrix operations.
+     Pandas: For data manipulation and preprocessing.
+     NumPy: For numerical operations.
+     scikit-learn: For feature extraction (TF-IDF) and similarity calculations.
+     SpaCy: For advanced natural language processing.
+     implicit: For collaborative filtering using ALS.
+     SciPy: For sparse matrix operations.
 
   
 • Model Training and Evaluation:
 
-  TensorFlow/Keras: For building deep learning and neural network models.
-  
-  PyTorch: For developing and training complex models.
-  
-  scikit-learn: For evaluation metrics and machine learning algorithms.
+     TensorFlow/Keras: For building deep learning and neural network models.
+     PyTorch: For developing and training complex models.
+     scikit-learn: For evaluation metrics and machine learning algorithms.
