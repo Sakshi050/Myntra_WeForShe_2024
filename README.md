@@ -117,14 +117,6 @@ The repository contains files for:
 
 To use the project, run the python scripts we have provided above. 
 
-## Installation:
-
-Use pip to install the requirements.
-
-~~~bash
-pip install -r requirements.txt
-~~~
-
 ## Built With/Dependencies
 
 - **OpenCV** - Open Source Computer Vision and Machine Learning software library
