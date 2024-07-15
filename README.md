@@ -101,9 +101,9 @@ The role of the model built is to:
 
 ## Screenshots:
 **Simple UI**
-![image](https://github.com/user-attachments/assets/9288e6d3-47a1-4a6a-9726-979b3bd37182)
+![image](https://github.com/user-attachments/assets/6691deea-1f3b-48d9-adac-93a50c9ac825)
 
-This is the type of prototype we are planning to make for our recommendation system
+This is the type of prototype that we have made using Canva. We are planning to make this type of UI for our recommendation system page
 
 ## Repository Structure:
 
@@ -113,11 +113,6 @@ The repository contains several directories:
 - **models:** This directory contains the machine learning models' weights, excluding the large SAM model which is not included in the repo due to its size.
 - **research:** This directory contains Jupyter notebooks file.
 - **python scripts:** These are a series of Python files responsible for different steps in the pipeline. The order of execution is as follows:
-    1. `data_preprocessing.py`
-    2. `download_images.py`
-    3. `image_segmentation.py`
-    4. `latent_space_creator.py`
-    5. `latent_space_clustering.py`
 
 ## How to Use
 
