@@ -107,16 +107,15 @@ This is the type of prototype that we have made using Canva. We are planning to 
 
 ## Repository Structure:
 
-The repository contains several directories:
+The repository contains files for:
 
-- **data:** This directory contains all the datasets.
-- **models:** This directory contains the machine learning models' weights, excluding the large SAM model which is not included in the repo due to its size.
-- **research:** This directory contains Jupyter notebooks file.
-- **python scripts:** These are a series of Python files responsible for different steps in the pipeline. The order of execution is as follows:
+- **datasets**
+- **models**
+- **python scripts**
 
 ## How to Use
 
-To use the project, run the python scripts in the order specified above. 
+To use the project, run the python scripts we have provided above. 
 
 ## Installation:
 
@@ -144,6 +143,3 @@ pip install -r requirements.txt
 
 - **opencv-python** - OpenCV is a huge open-source library for computer vision, machine learning, and image processing.
 
-
-
-## Results:
